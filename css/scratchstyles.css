@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+body{
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color:black;
+    font-weight:bold;
+}
+
+ul{
+    font-family:'Times New Roman', Times, serif;
+    font-size: small;
+    color:gray;
+}
+
+ol{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    color:rgb(2, 52, 102);
+}
+
+.weirdol{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:blueviolet;
+    font-size:x-large;
+    font-weight:bolder;
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(113, 4, 4);
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.imago{
+    width:25%;
+    margin-left:0ch;
+}
+
+.currentpage{
+    color:rgb(198, 121, 50);
+    font-weight:lighter;
+}
+
+nav{
+    background-color:aquamarine;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    float: middle;
+    color:rgb(86, 12, 4);
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#top{
+    text-decoration: underline;
+    color:blue;
+}
